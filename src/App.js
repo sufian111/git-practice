@@ -7,7 +7,7 @@ function App() {
       <p> My Name is Rabbi </p>
       <p> Wellcome home </p>
       <button>Click me</button>
-      <p>update from developer</p>
+      <p>update from developer also</p>
       <p>upadate from sufian</p>
     </div>
   );
