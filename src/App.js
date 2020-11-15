@@ -8,6 +8,7 @@ function App() {
       <p> Wellcome home </p>
       <button>Click me</button>
       <p>update from developer</p>
+      <p>upadate from sufian</p>
     </div>
   );
 }
