@@ -7,6 +7,7 @@ function App() {
       <p> My Name is Rabbi </p>
       <p> Wellcome home </p>
       <button>Click me</button>
+      <p>update from developer</p>
     </div>
   );
 }
